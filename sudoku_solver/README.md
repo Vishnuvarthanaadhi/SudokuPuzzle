@@ -63,8 +63,8 @@ The predicted solutions are saved to a CSV file (Test_Predictions.csv)
 
 ## Files Included
 - `task-2.ipynb`: Main Python script containing the code for training the CNN model, loading test images, and generating the output CSV file.
-- `Original_output_File.csv` : This CSV file containing the Quiz and solution of 50000 Training datasets.
-- `Train_Output_Test_submission_10000.csv` : This CSV file containing the predicted digits of the 10000 test Images of sudoku(Unsolved Sudoku With labels).
+- `Training_Dataset.csv` : This CSV file containing the Quiz and solution of 50000 Training datasets.
+- `Test_Dataset.csv` : This CSV file containing the predicted digits of the 10000 test Images of sudoku(Unsolved Sudoku With labels).
 - `Test_Predictions.csv` : This CSV file containing the Solved Sudoku Puzzles of 10000 Images.
 - `README.md`: Markdown file explaining the code and usage instructions.
 
