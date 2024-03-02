@@ -1,4 +1,4 @@
-# Sudoku Digit Recognition using Convolutional Neural Networks (CNN)
+# Sudoku Solver using Convolutional Neural Networks (CNN)
 
 This repository contains code for recognizing digits in a Sudoku puzzle image using a Convolutional Neural Network (CNN) implemented in PyTorch. The CNN is trained on the MNIST dataset, which consists of handwritten digits. After training, the model is used to predict digits in Sudoku puzzle images.
 The project objective is to train a deep learning model that can solve a Sudoku puzzle. To help you, we have split the problem into two tasks: in Task 1( **Sudoku_Recognition**) you shall train a model to read the Sudoku puzzle to know which digits there are and where are their placed within the Sudoku grid. 
