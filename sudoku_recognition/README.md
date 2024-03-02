@@ -50,7 +50,9 @@ Here id is composed of the ID of the image (0-9999) and the xy coordinate of the
    - Applies the prediction functions to predict digits for all cells in the Sudoku puzzles. It iterates through all the cells in the Sudoku puzzles, preprocesses each cell image, predicts the digit using the CNN model, and combines the predictions with their coordinates.
 8. **Output Generation**: 
    - Generates a CSV file containing the predicted digits for submission. It iterates through all the predicted results for the test images, converts the coordinates and predicted digits to the required format, and writes them to a CSV file.
-     [!Output_Image](https://github.com/Vishnuvarthanaadhi/SudokuPuzzle/blob/2465cd9a6d38692bb5d0f2821b4563c9811f0753/sudoku_recognition/Output_Image.png)
+
+
+      ![Output_Image](https://github.com/Vishnuvarthanaadhi/SudokuPuzzle/blob/2465cd9a6d38692bb5d0f2821b4563c9811f0753/sudoku_recognition/Output_Image.png)
 
 ## Files Included
 - `task-1.ipynb`: Main Python script containing the code for training the CNN model, loading test images, predicting digits, and generating the output CSV file.
