@@ -54,7 +54,7 @@ Here id is composed of the ID of the image (0-9999) and the xy coordinate of the
 ## Files Included
 - `task-1.ipynb`: Main Python script containing the code for training the CNN model, loading test images, predicting digits, and generating the output CSV file.
 - `test_recognition.npy` : This NPY file containing the 10000 test Images of sudoku with empty Values(Unsolved Puzzles).
-- `Output_Task1.csv` : This CSV file containing the predicted digits of the 10000 test Images of sudoku.
+- `Output_Task1.csv` : This CSV file containing the predicted digits of the 10000 test Images of sudoku.[Download Input Sheet](https://github.com/Vishnuvarthanaadhi/Workforce/blob/5c87cc692ae603f218f57c08137f134910a7fc9f/Input.xlsx)
 - `README.md`: Markdown file explaining the code and usage instructions.
 
 ## Notes
